@@ -412,7 +412,7 @@ const wavesurfer = WaveSurfer.create({
     barWidth: 4,
     reponsive: true,
     height: 15,
-    url: "/asset/songs/tiptoe_mp3.mp3",
+    url: "./asset/songs/tiptoe_mp3.mp3",
     barRadius: 10,
     waveColor: [
         "#6b697e"
