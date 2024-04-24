@@ -495,9 +495,7 @@ input:checked+.slider:before {
     opacity: 1;
     color:   #4f4efc;
 }
-.song.active_song .listen{
 
-}
 .trending_music-sub {
     display: flex;
     justify-content: space-between;
