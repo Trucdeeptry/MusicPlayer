@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'Urbane-Medium';
-    src: url('/asset/font/Urbane-Medium.ttf') format('truetype'),
-         url('/asset/font/Urbane-Medium.eot') format('embedded-opentype'),
-         url('/asset/font/Urbane-Medium.woff') format('woff'),
-         url('/asset/font/Urbane-Medium.woff2') format('woff2');
+    src: url('./asset/font/Urbane-Medium.ttf') format('truetype'),
+         url('./asset/font/Urbane-Medium.eot') format('embedded-opentype'),
+         url('./asset/font/Urbane-Medium.woff') format('woff'),
+         url('./asset/font/Urbane-Medium.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Urbane-DemiBold';
-    src: url('/asset/font/Urbane-DemiBold.ttf') format('truetype'),
-         url('/asset/font/Urbane-DemiBold.eot') format('embedded-opentype'),
-         url('/asset/font/Urbane-DemiBold.woff') format('woff'),
-         url('/asset/font/Urbane-DemiBold.woff2') format('woff2');
+    src: url('./asset/font/Urbane-DemiBold.ttf') format('truetype'),
+         url('./asset/font/Urbane-DemiBold.eot') format('embedded-opentype'),
+         url('./asset/font/Urbane-DemiBold.woff') format('woff'),
+         url('./asset/font/Urbane-DemiBold.woff2') format('woff2');
 }
 @font-face {
     font-family: '1FTV-Nexa-Heavy';
-    src: url('/asset/font/1FTV-Nexa-Heavy.otf') format('opentype');
+    src: url('./asset/font/1FTV-Nexa-Heavy.otf') format('opentype');
 
 }
 body{

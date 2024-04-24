@@ -207,7 +207,7 @@ function renderSongs(data) {
                     <div class="music_info">
                         <h3 class="music_name " style="margin: 0;">${item.name}</h3>
                         <div class="music_sub">
-                            <img src="/asset/img/artist-user.png" style="width: 12px; height: 12px; margin-right: 6px;" alt="" class="sub_artist">
+                            <img src="./asset/img/artist-user.png" style="width: 12px; height: 12px; margin-right: 6px;" alt="" class="sub_artist">
                             <p class="music_artist">${item.artist}</p>
                         </div>
                     </div>
@@ -215,7 +215,7 @@ function renderSongs(data) {
                 <div class="trending_music-sub">
                     <strong class="sub_item">${hanldeSecond(song.duration)}</strong>
                     <span class="sub_item listen" >${listensString}</span>
-                    <img src="/asset/img/heart.png" class="sub_item sub_heart">
+                    <img src="./asset/img/heart.png" class="sub_item sub_heart">
                     <h3 class="three-dots sub_item" style="font-size: 26px; margin-right:0;">...</h3>
                 </div>
             </div>
