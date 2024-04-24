@@ -15,7 +15,7 @@
 }
 @font-face {
     font-family: '1FTV-Nexa-Heavy';
-    src: url('./asset/font/1FTV-Nexa-Heavy.otf') format('opentype');
+    src: url('./font/1FTV-Nexa-Heavy.otf') format('opentype');
 
 }
 body{

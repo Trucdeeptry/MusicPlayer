@@ -678,7 +678,7 @@ input:checked+.slider:before {
 }
 
 .playing {
-    content: url("./asset/img/Pause.png")
+    content: url("./img/Pause.png")
 }
 
 .progress {
